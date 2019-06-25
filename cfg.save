@@ -1,0 +1,18 @@
+<?php
+/*
+
+CONFIG HANYA BERLAKU SEKALI PAKAI.
+
+NOTE: -JANGAN BUKA APLIKASI SELAGI BOT BERJALAN!!!
+      -JANGAN GANTI NAMA VARIABEL ATAU CONFIG AKAN ERROR!!!
+      -ISI SAJA YANG SUDAH DIPERINTAHKAN,SAVE AS "cfg.php"
+Kurang paham? 
+	Bisa tanya ke orang yang paham maksud saya diatas :)
+
+*/
+
+$Bearer = "ISI DISINI";
+$firebase_instance_id_token = "ISI DISINI";
+$cred = "ISI DISINI";
+$users = "ISI DISINI";
+$Sec_WebSocket_Key = "ISI DISINI";
